@@ -1,6 +1,6 @@
 # Banking System Console Application
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <[URL HERE](https://youtu.be/KWcYHRPkLhw)>
 
 ## Project Overview
 
